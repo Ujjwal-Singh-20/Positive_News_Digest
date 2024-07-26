@@ -77,7 +77,7 @@ This project was developed with the help of various resources and guidance. I wo
 
 - **OpenAI's ChatGPT** for providing valuable insights and code snippets.
 - [Flask Documentation](https://flask.palletsprojects.com/en/2.0.x/) for comprehensive guidance on building web applications.
--  **News Source**: The news articles were scraped from https://www.goodnewsnetwork.org/. Their comprehensive news coverage provided the foundation for this project.
+-  **News Source**: The news articles were scraped from [goodnewsnetwork](https://www.goodnewsnetwork.org/). Their comprehensive news coverage provided the foundation for this project.
 
 
 All external code and resources were studied, adapted, and integrated to fit the specific needs of this project. This process has been a great learning experience and has significantly contributed to my understanding of web development and data science.
