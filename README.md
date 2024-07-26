@@ -4,6 +4,10 @@
 
 Positive News Digest is a web application designed to curate and display news articles with positive sentiment. The aim is to provide users with a source of uplifting and encouraging news, making their browsing experience more pleasant. This project includes features such as bookmarking favorite articles and generating a word cloud from the collected news.
 
+## Demo Video
+
+[Watch the demo video](https://drive.google.com/file/d/1ccLBkKCE_NNfEguLuXhqnCSUgDUIzwuj/view?usp=sharing)
+
 ## Features
 
 - **Positive News Curation**: Collect and display news articles with positive sentiment.
